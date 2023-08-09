@@ -160,4 +160,4 @@
    rpsGame.play(player1, player2)
    
    //userinput always execs at the end - not understanding it atm
-   //rpsGame.showTheEnd() 
+   //rpsGame.showTheEnd()
